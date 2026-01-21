@@ -1,2 +1,5 @@
 def test_first():
-    assert 1 + 1 == 2
+        result = 1 + 1
+        print("result =", result)
+        assert result == 3
+
